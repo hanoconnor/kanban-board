@@ -1,4 +1,4 @@
-/* Stars Image - Pexels: https://www.pexels.com/photo/black-mountains-under-the-stars-at-nighttime-355465/ */
+/* Mountains Background Photo by stein egil liland: https://www.pexels.com/photo/snow-capped-mountains-under-full-moon-3510717/ */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 html {
@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  background: url("media/stars.jpg");
+  background: url("media/mountains.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
